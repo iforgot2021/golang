@@ -1,5 +1,3 @@
-module go.study
+module github.com/iforgot2021/golang
 
-go 1.13
-
-require golang.org/x/tools v0.1.7 // indirect
+go 1.17
